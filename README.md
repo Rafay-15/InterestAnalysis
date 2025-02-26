@@ -61,7 +61,7 @@ This project is released under the **MIT License**. Feel free to use and modify 
 If you'd like to contribute or improve the model, feel free to fork the repo and submit a pull request.
 
 ## 🔗 Links  
-- 🤗 **Hugging Face Model**: [https://huggingface.co/Rafay-15/InterestAnalysisModel](https://huggingface.co/rafay-15/Roberta-InterestDetection)  
-- 📂 **GitHub Repository**: [https://github.com/Rafay-15/InterestAnalysisModel](https://github.com/Rafay-15/InterestAnalysisModel)  
+- 🤗 **Hugging Face Model**: [https://huggingface.co/rafay-15/Roberta-InterestDetection](https://huggingface.co/rafay-15/Roberta-InterestDetection)  
+- 📂 **GitHub Repository**: [https://github.com/Rafay-15/InterestAnalysisModel](https://github.com/Rafay-15/InterestAnalysis)  
 
 🚀 **Happy coding!** 🎯
